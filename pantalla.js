@@ -12,7 +12,7 @@
     <!-- Our application root element -->
     <div id="app">
       <b-container>
-        <b-jumbotron header="DanyZanWebMaster"
+        <b-jumbotron header="DanyZan WebMaster"
                      lead="Masaje Relajante-Descontracturante-Adultos Mayores"
         >
           <p>For more information visit our website</p>
